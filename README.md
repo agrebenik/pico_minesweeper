@@ -9,8 +9,7 @@ Since I did not have access to a PicoSystem at the time of writing to actually t
 Here is how I view the output my code produces. VSCode's ability to update the file live makes playing quite surprisingly easy.
 ![image](https://github.com/user-attachments/assets/a6da3e83-c076-43a2-8ee5-07c77d668e5f)
 
-User inputs are entered in a console which interfaces with my PicoSystem library and produces the bitmap output.
-A textual representation of the minefield is present for debugging purposes. 
+User inputs are entered in a console which interfaces with my PicoSystem library and produces the bitmap output. A textual representation of the minefield is present for debugging purposes. 
 ![image](https://github.com/user-attachments/assets/c59d0208-bc05-48e7-8c8c-bf4c713a6176)
 
 Overall what my testing setup for this game looks like:
